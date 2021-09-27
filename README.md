@@ -8,4 +8,7 @@ This is a ` test `!!!
 ```
  This is a long quote 
  ```
- 
+- [x] 1
+- [ ] 2
+- [ ] 3
+- [x] 4
