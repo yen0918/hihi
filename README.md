@@ -17,3 +17,20 @@ This is a ` test `!!!
 - [ ] 2
 - [ ] 3
 - [x] 4
+
+| Tables          | Are                |  Cool            |
+| :-------------  | :----------------: |  --------------: |
+|  clo 3 is       |   right-alighed    |   $16000         |
+|  clo 2 is       |     centered       |   $12            |
+|  zebra stripes  |     are neat       |   $1             |
+   
+| Markdown        | Less               |      Pretty      |
+| :-------------- | :---------------   |  :-------------: |
+|  *Still*        |  renders           |    **nicely**    |
+|  1              |  2                 |         3        |
+
+```js
+$scope.cookueGet = funtion(key){
+  $scope.cookieResult = $cookieStore.get(key);
+}
+```
